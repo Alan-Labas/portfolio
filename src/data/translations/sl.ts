@@ -4,6 +4,7 @@ export const sl = {
         projects: "Projekti",
         skills: "Znanja",
         contact: "Kontakt",
+        resume: "Življenjepis"
     },
     hero: {
         greeting: "Pozdravljeni, sem Alan",
