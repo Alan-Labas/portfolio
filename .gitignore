@@ -141,3 +141,14 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+eslint.config.js
+package.json
+package-lock.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+node_modules
+.idea
+.DS_Store
