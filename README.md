@@ -3,7 +3,7 @@
 Personal portfolio website built with React + Vite.
 
 ## Live
-[alanlabas.vercel.app]([https://portfolio-wheat-eight-7ejye2k60n.vercel.app])
+[alanlabas.vercel.app](https://portfolio-wheat-eight-7ejye2k60n.vercel.app)
 
 ##  Built with
 - React + Vite
