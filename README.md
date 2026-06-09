@@ -3,7 +3,7 @@
 Personal portfolio website built with React + Vite.
 
 ## Live
-[alanlabas.vercel.app]([https://alanlabas.vercel.app](https://portfolio-wheat-eight-7ejye2k60n.vercel.app))
+[alanlabas.vercel.app]([(https://portfolio-wheat-eight-7ejye2k60n.vercel.app)])
 
 ##  Built with
 - React + Vite
@@ -18,7 +18,7 @@ Personal portfolio website built with React + Vite.
 - Subtle scroll animations
 
 ##  Run locally
-git clone https://github.com/Alan-Labas/portfolio
-cd portfolio
-npm install
-npm run dev
+- git clone https://github.com/Alan-Labas/portfolio
+- cd portfolio
+- npm install
+- npm run dev
