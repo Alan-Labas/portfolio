@@ -7,8 +7,9 @@ export const sl = {
         resume: "Življenjepis"
     },
     hero: {
-        greeting: "Pozdravljeni, sem Alan",
-        subtitle: "Ustvarjam spletne aplikacije s React, Node.js in Spring Boot.",
+        greeting: "Always learning, always building.",
+        subtitle: "Full-Stack Developer & študent informatike in podatkovne tehnologije.\n" +
+            "Spreminjam ideje v spletne aplikacije — od React frontenda do Spring Boot backenda.",
         cta_projects: "Ogled projektov",
         cta_github: "GitHub",
         cta_cv: "Prenesi CV",

@@ -7,8 +7,9 @@ export const en = {
         resume: "Resume"
     },
     hero: {
-        greeting: "Hello, I'm Alan",
-        subtitle: "Building web applications with React, Node.js and Spring Boot.",
+        greeting: "Always learning, always building.",
+        subtitle: "Full-Stack Developer & CS Student.\n" +
+            "Turning ideas into web applications — from React frontends to Spring Boot backends.",
         cta_projects: "View projects",
         cta_github: "GitHub",
         cta_cv: "Download CV",
