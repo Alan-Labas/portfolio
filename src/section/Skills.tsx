@@ -43,7 +43,8 @@ const database: Skill[] = [
 
 function SkillCard({ icon: Icon, label, link }: Skill) {
     const card = (
-        <div className="flex flex-col items-center gap-2 p-4 bg-white dark:bg-gray-900 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800 hover:border-accent dark:hover:border-accent hover:shadow-md transition-all duration-200 w-24">
+        <div className="flex flex-col
+        items-center gap-2 p-4 bg-white dark:bg-gray-900 rounded-xl shadow-sm border border-gray-100 dark:border-gray-800 hover:border-accent dark:hover:border-accent hover:shadow-md transition-all duration-200 w-24">
             <Icon className="text-3xl text-gray-600 dark:text-gray-400 group-hover:text-accent transition-colors" />
             <span className="text-xs text-gray-600 dark:text-gray-400 font-medium text-center">{label}</span>
         </div>

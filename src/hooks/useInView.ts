@@ -1,8 +1,8 @@
 import { useRef, useLayoutEffect } from "react";
 import type { RefObject } from "react";
 
-export function useInView<T extends HTMLElement = HTMLElement>(threshold = 0.15): RefObject<T> {
-    const ref = useRef<T>(null);
+export function useInView<T extends HTMLElement = HTMLElement>(threshold = 0.15): RefObject<T | null> {
+    const ref = useRef<T | null>(null);
 
     useLayoutEffect(() => {
         const el = ref.current;
