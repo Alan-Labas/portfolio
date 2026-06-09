@@ -11,14 +11,28 @@ export const en = {
         subtitle: "Building web applications with React, Node.js and Spring Boot.",
         cta_projects: "View projects",
         cta_github: "GitHub",
-        cta_cv: "Download CV"
+        cta_cv: "Download CV",
     },
     about: {
         title: "About me",
-        description: "Computer science student at UM FERI, looking for my first dev role",
+        bio: "I'm a computer science student at the University of Maribor (FERI), \n" +
+            "passionate about building web and mobile applications. I work across \n" +
+            "the full stack — from React frontends to Spring Boot backends and MySQL databases. \n" +
+            "I'm currently looking for my first developer role where I can grow \n" +
+            "and contribute to real projects.",
+        location_label: "Location",
+        location: "Maribor, Slovenia",
+        education_label: "Education",
+        education: "UM FERI, Bachelor's degree in Informatics and data technologies",
+        status_label: "Status",
+        status: "Open to opportunities",
     },
     skills: {
         title: "Skills",
+        frontend: "Frontend",
+        backend: "Backend",
+        database: "Database",
+        tools: "Tools",
     },
     projects: {
         title: "Projects",
