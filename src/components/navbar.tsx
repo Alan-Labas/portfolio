@@ -33,7 +33,7 @@ export default function Navbar() {
                     ))}
                     <li>
                         <a
-                            href="/cv.pdf"
+                            href={t.hero.cv_link}
                             target="_blank"
                             rel="noreferrer"
                             className="text-sm font-medium px-4 py-1.5 border border-gray-300 dark:border-gray-700 rounded-lg text-gray-700 dark:text-gray-300 hover:border-accent hover:text-accent dark:hover:border-accent dark:hover:text-accent transition-colors"
@@ -66,7 +66,7 @@ export default function Navbar() {
                         </li>
                     ))}
                     <li>
-                        <a href="/cv.pdf" target="_blank" rel="noreferrer" className="block font-medium text-gray-700 dark:text-gray-300 hover:text-accent transition-colors">
+                        <a href="/alan_labas_en_cv.pdf.pdf" target="_blank" rel="noreferrer" className="block font-medium text-gray-700 dark:text-gray-300 hover:text-accent transition-colors">
                             {t.nav.resume}
                         </a>
                     </li>

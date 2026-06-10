@@ -30,7 +30,7 @@ export default function Hero() {
                     {t.hero.cta_github}
                 </a>
                 <a
-                    href="/cv.pdf"
+                    href={t.hero.cv_link}
                     download
                     className="px-6 py-3 border border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 text-sm font-medium rounded-lg hover:border-accent hover:text-accent dark:hover:border-accent dark:hover:text-accent transition-colors"
                 >

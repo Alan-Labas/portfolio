@@ -13,6 +13,7 @@ export const en = {
         cta_projects: "View projects",
         cta_github: "GitHub",
         cta_cv: "Download CV",
+        cv_link: "../../public/alan_labas_en_cv.pdf"
     },
     about: {
         title: "About me",
