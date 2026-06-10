@@ -13,7 +13,7 @@ export const sl = {
         cta_projects: "Ogled projektov",
         cta_github: "GitHub",
         cta_cv: "Prenesi CV",
-        cv_link: "../../public/alan_labas_slo_cv.pdf"
+        cv_link: "/alan_labas_slo_cv.pdf"
     },
     about: {
         title: "O meni",

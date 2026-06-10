@@ -66,7 +66,7 @@ export default function Navbar() {
                         </li>
                     ))}
                     <li>
-                        <a href="/alan_labas_en_cv.pdf.pdf" target="_blank" rel="noreferrer" className="block font-medium text-gray-700 dark:text-gray-300 hover:text-accent transition-colors">
+                        <a href={t.hero.cv_link} target="_blank" rel="noreferrer" className="block font-medium text-gray-700 dark:text-gray-300 hover:text-accent transition-colors">
                             {t.nav.resume}
                         </a>
                     </li>
