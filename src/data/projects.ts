@@ -20,5 +20,6 @@ export const projects = [
         description: "Inventory app",
         tech: ["React", "Typescript", "java", "spring boot", "MySQL"],
         github:"https://github.com/Alan-Labas/Inventory",
+        live:"https://www.family-inventory.me"
     }
 ]
