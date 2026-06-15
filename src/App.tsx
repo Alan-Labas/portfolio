@@ -4,6 +4,7 @@ import Skills from './section/Skills.tsx'
 import About from './section/About.tsx'
 import Hero from "./section/Hero.tsx";
 import Contacts from "./section/Contacts.tsx";
+import {Analytics} from "@vercel/analytics/react";
 
 import './App.css'
 
@@ -17,7 +18,7 @@ function App() {
         <Projects />
         <Skills />
         <Contacts />
-
+        <Analytics />
     </>
   )
 }
